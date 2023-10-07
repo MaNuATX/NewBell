@@ -1,0 +1,4 @@
+name: NewBell
+version: '${project.version}'
+main: me.manudev.newbell.NewBell
+api-version: '1.19'
